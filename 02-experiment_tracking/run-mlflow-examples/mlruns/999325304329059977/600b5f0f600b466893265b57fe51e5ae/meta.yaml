@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/mlops/02-experiment_tracking/run-mlflow-examples/mlruns/999325304329059977/600b5f0f600b466893265b57fe51e5ae/artifacts
+end_time: 1749848111285
+entry_point_name: ''
+experiment_id: '999325304329059977'
+lifecycle_stage: active
+run_id: 600b5f0f600b466893265b57fe51e5ae
+run_name: legendary-doe-623
+run_uuid: 600b5f0f600b466893265b57fe51e5ae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749848108591
+status: 3
+tags: []
+user_id: codespace

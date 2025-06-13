@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/mlops/02-experiment_tracking/run-mlflow-examples/mlruns/999325304329059977/2bb516c789374acd9f39ef80a5e35c8d/artifacts
+end_time: 1749847462930
+entry_point_name: ''
+experiment_id: '999325304329059977'
+lifecycle_stage: active
+run_id: 2bb516c789374acd9f39ef80a5e35c8d
+run_name: caring-sloth-590
+run_uuid: 2bb516c789374acd9f39ef80a5e35c8d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749847458403
+status: 3
+tags: []
+user_id: codespace

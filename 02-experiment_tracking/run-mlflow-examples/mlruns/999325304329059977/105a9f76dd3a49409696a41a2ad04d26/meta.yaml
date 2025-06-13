@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/mlops/02-experiment_tracking/run-mlflow-examples/mlruns/999325304329059977/105a9f76dd3a49409696a41a2ad04d26/artifacts
+end_time: 1749848244119
+entry_point_name: ''
+experiment_id: '999325304329059977'
+lifecycle_stage: active
+run_id: 105a9f76dd3a49409696a41a2ad04d26
+run_name: debonair-sheep-691
+run_uuid: 105a9f76dd3a49409696a41a2ad04d26
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749848241490
+status: 3
+tags: []
+user_id: codespace
